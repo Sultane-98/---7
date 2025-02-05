@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الفلك في العصر الحديث</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>الفلك في العصر الحديث</h1>
+        <p>استكشاف عوالم بعيدة باستخدام أحدث تقنيات الفضاء</p>
+    </header>
+
+    <section>
+        <h2>مقدمة</h2>
+        <p>الفلك في العصر الحديث يعتمد على التكنولوجيا المتطورة مثل التلسكوبات الفضائية والمركبات الروبوتية لاستكشاف الكواكب والنجوم والمجرات البعيدة.</p>
+        
+        <h2>أحدث الاكتشافات</h2>
+        <p>من أبرز الاكتشافات الفلكية الحديثة هو اكتشاف الكواكب الخارجية التي تدور حول نجوم غير شمسنا، واكتشافات جديدة حول الثقوب السوداء.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 سلطان داود. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
